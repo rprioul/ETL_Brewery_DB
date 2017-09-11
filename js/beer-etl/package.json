@@ -1,0 +1,17 @@
+{
+  "name": "beer-etl",
+  "version": "1.0.0",
+  "description": "ETL script for brewery DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.1.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "moment": "^2.17.1"
+  }
+}
